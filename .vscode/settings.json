@@ -1,0 +1,7 @@
+{
+<<<<<<< HEAD
+    "cmake.sourceDirectory": "${workspaceFolder}/carpool_app/linux"
+=======
+    "java.configuration.updateBuildConfiguration": "interactive"
+>>>>>>> bda9100 (landing progress)
+}
