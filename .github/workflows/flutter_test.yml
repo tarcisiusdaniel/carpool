@@ -2,13 +2,13 @@ name: Flutter Test
 on:
   push:
     paths:
-      # - 'carpool_app/**'
-      # - '.github/workflows/flutter_test.yml'
+      - 'carpool_app/**'
+      - '.github/workflows/flutter_test.yml'
     branches: [ main ]
   pull_request:
     paths:
-      # - 'carpool_app/**'
-      # - '.github/workflows/flutter_test.yml'
+      - 'carpool_app/**'
+      - '.github/workflows/flutter_test.yml'
     branches: [ main ]
 
   workflow_dispatch:
